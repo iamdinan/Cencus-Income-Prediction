@@ -14,9 +14,9 @@ using Apache Spark (PySpark) for scalable, distributed data processing.
 - **Target:** `income` — binary (`<=50K` or `>50K`)
 
 ## Repository Structure
-├── adult.zip          # Raw dataset
-├── DS_CW-.ipynb       # Main Jupyter Notebook
-└── README.md
+adult.zip          # Raw dataset
+DS_CW-.ipynb       # Main Jupyter Notebook
+README.md
 
 ## Requirements
 - Python 3.8+
